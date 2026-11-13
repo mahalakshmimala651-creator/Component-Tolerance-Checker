@@ -1,0 +1,16 @@
+part_no,part_type,nominal_value,unit,tolerance_pct,description
+PN-R001,R,10,ohm,5,Resistor 10 ohm 5% 0603
+PN-R002,R,100,ohm,5,Resistor 100 ohm 5% 0603
+PN-R003,R,470,ohm,5,Resistor 470 ohm 5% 0603
+PN-R004,R,1k,ohm,1,Resistor 1k ohm 1% 0603
+PN-R005,R,4.7k,ohm,5,Resistor 4.7k ohm 5% 0603
+PN-R006,R,10k,ohm,1,Resistor 10k ohm 1% 0603
+PN-R007,R,47k,ohm,5,Resistor 47k ohm 5% 0603
+PN-R008,R,100k,ohm,5,Resistor 100k ohm 5% 0603
+PN-R009,R,1M,ohm,5,Resistor 1M ohm 5% 0603
+PN-C010,C,100p,F,5,Capacitor 100pF 5% MLCC
+PN-C011,C,1n,F,10,Capacitor 1nF 10% MLCC
+PN-C012,C,10n,F,10,Capacitor 10nF 10% MLCC
+PN-C013,C,100n,F,10,Capacitor 100nF 10% MLCC
+PN-C014,C,1u,F,20,Capacitor 1uF 20% electrolytic
+PN-C015,C,10u,F,20,Capacitor 10uF 20% electrolytic

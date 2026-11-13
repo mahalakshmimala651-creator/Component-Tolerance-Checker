@@ -1,0 +1,10 @@
+COMPONENT BATCH REPORT
+======================
+resistor | Rated: 1000.0 | Measured: 1020.0 | Result: PASS
+capacitor | Rated: 1000.0 | Measured: 950.0 | Result: PASS
+1000 | Rated: 5.0 | Measured: 1100.0 | Result: FAIL
+
+Total Components: 3
+Passed: 2
+Failed: 1
+BATCH REJECTED

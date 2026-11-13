@@ -1,0 +1,7 @@
+# ECE-050 command file - load files, evaluate every lot in lot_id order, then print the October scorecard
+LOAD_SPECS|part_specs.csv
+LOAD_SUPPLIERS|suppliers.csv
+LOAD_LOTS|lots.csv
+LOAD_MEASUREMENTS|measurements.csv
+EVALUATE
+SCORECARD|2026-10-01|2026-10-31
